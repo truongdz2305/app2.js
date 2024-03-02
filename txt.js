@@ -58,8 +58,8 @@ const html = `
         padding: 10px 20px;
         border: none;
         cursor: pointer;
-        border-radius: 5px; /* Làm tròn góc */
-        box-shadow: 0 4 px #1fa7a5; /* Bóng dưới nút */
+        border-radius: 5px;
+        box-shadow: 0 4 px #1fa7a5;
         transition: background-color 0.3s;
         }
         .color:hover{
